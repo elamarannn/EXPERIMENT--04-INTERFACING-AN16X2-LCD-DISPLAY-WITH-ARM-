@@ -174,8 +174,8 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
 
 ## STM 32 CUBE PROGRAM :
 ```
-Developed by: R.AADITHYAN
-REF N0. 212222230001
+Developed by: Elamaran S E
+REF N0. 212222230036
 
 #include "main.h"
 #include "lcd.h"
