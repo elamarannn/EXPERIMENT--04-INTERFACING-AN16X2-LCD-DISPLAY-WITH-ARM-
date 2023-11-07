@@ -201,7 +201,7 @@ int main(void)
   Lcd_string(&lcd, "DEPT : AIDS");
 
   Lcd_cursor(&lcd, 1,5);
-  Lcd_string(&lcd, "KAADITHYAN");
+  Lcd_string(&lcd, "Elamaran");
   
   while (1)
   {
